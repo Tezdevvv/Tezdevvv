@@ -1,4 +1,4 @@
-<h1 align="center">just follow our passion.</h1>
+<h1 align="center">hello world</h1>
 
 <p align="center">
     <a href="https://www.youtube.com/@Tezdev">
